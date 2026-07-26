@@ -292,7 +292,5 @@ This project is open source. Feel free to use, modify, and distribute it.
 
 <div align="center">
 
-**Built with ❤️ using AI-powered technologies**
-
 </div>
 ]]>
