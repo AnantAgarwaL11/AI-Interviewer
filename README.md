@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🎙️ AI Automated Interviewer
 
@@ -293,4 +293,4 @@ This project is open source. Feel free to use, modify, and distribute it.
 <div align="center">
 
 </div>
-]]>
+
